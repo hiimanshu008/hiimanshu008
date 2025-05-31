@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Spring Boot | System Design | DSA**<br>- 💬 Ask me about **Java, Spring Boot, Database, REST APIs**<br>- 📫 How to reach me: **hiimanshusingh18l@gmail.com**<br>- ⚡ Fun fact: *I enjoy binge-watching anime & exploring tech stuff!*</p>
+<p align="left">- 🌱 I’m currently learning **Spring Boot | System Design | DSA**<br>- 💬 Ask me about **Java, Spring Boot, Database, REST APIs**<br>- 📫 How to reach me: **hiimanshusingh18@gmail.com**<br>- ⚡ Fun fact: *I enjoy binge-watching anime & exploring tech stuff!*</p>
 
 ###
 
